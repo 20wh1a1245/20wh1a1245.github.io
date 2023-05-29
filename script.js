@@ -1,1 +1,1 @@
-alert("This is a progress tracker")
+console.log("This is a progress tracker");
