@@ -12,6 +12,10 @@
 .card:hover{
     box-shadow: 0 14px 18px 0 rgba(0, 0, 0, 0.2);
 }
+.childImage{
+    width: 30%;
+    height: 50%;
+}
 .name{
     font-size: 30px;
     font-weight: bold;
