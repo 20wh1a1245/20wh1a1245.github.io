@@ -28,3 +28,7 @@
     margin-top: 0;
     margin-bottom: 0;
 }
+.toggleButton{
+    background-color: rgb(16, 28, 141);
+    color: beige;
+}
