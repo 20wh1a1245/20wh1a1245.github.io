@@ -14,4 +14,5 @@ var changeMyPic = function()
         displayData = data1;
         isData1 = true;
     }
+    document.getElementById("myChildImg").src = displayData.image;
 }
